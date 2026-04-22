@@ -440,13 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/Personal-Organization-site/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-defended-her-phd-at-sorbonne-university",
+          title: 'Defended her PHD at Sorbonne University',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/Personal-Organization-site/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-started-a-post-doc-at-lis-with-magalie-ochs-and-chloé-clavel",
+          title: 'Started a Post Doc at LIS with Magalie Ochs and Chloé Clavel.',
           description: "",
           section: "News",},{id: "news-received-the-cm-certification-from-section-27-computer-science",
           title: 'Received the CM Certification from Section 27 (Computer science)',
