@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - l-Galland
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - l-Galland/DREAM
+  - l-Galland/MALEFIC
+  - l-Galland/UnexpectedRelevantUserSimulation
+  - l-Galland/PatientSimulation
+  - l-Galland/MI-DA-Classification
