@@ -20,11 +20,6 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 Lucie Galland is a Postdoctoral Researcher at the Laboratoire d'Informatique et Systèmes (LIS) at Aix-Marseille University. Her research examines the intersection of Human-Computer Interaction (HCI) and Adaptive Dialogue Systems, with a specific focus on the role of trust calibration in improving group problem-solving.
