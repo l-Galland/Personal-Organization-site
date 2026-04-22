@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/Personal-Organization-site/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/Personal-Organization-site/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-started-a-post-doc-at-lis-with-magalie-ochs-and-chloé-clavel",
+          title: 'Started a Post Doc at LIS with Magalie Ochs and Chloé Clavel.',
+          description: "",
+          section: "News",},{id: "news-received-the-cm-certification-from-section-27-computer-science",
+          title: 'Received the CM Certification from Section 27 (Computer science)',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
