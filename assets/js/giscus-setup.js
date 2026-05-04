@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "l-Galland/Personal-Organization-site",
+    "data-repo": "l-Galland/Lucie-Galland",
     "data-repo-id": "",
     "data-category": "",
     "data-category-id": "",
