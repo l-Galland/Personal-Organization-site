@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>B023</p>
     <p>TRP2, Luminy</p>
-    <p>Marseille, France</p>
+    <p>Marseille, Luminy, France</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
