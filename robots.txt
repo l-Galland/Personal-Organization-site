@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://l-galland.github.io/l-Galland//sitemap.xml
+Sitemap: https://l-galland.github.io/Lucie-Galland//sitemap.xml
