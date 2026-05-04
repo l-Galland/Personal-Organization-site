@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://l-galland.github.io/Personal-Organization-site//sitemap.xml
+Sitemap: https://l-galland.github.io/l-Galland//sitemap.xml
