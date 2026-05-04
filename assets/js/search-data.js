@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Personal-Organization-site/publications/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Lucie Galland&#39;s repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Personal-Organization-site/repositories/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "CV of Lucie Galland.",
