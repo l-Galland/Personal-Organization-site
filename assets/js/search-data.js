@@ -443,8 +443,8 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/Personal-Organization-site/teachings/data-science-fundamentals.html";
             },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+          title: 'Introduction To Machine Learning',
+          description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/Personal-Organization-site/teachings/introduction-to-machine-learning.html";
             },},{
