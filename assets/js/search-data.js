@@ -439,7 +439,7 @@ ninja.data = [{
           title: 'Embodied virtual agents',
           description: "",
           section: "Teachings",handler: () => {
-              window.location.href = "/Lucie-Galland/teachings/embodied%20virtual%20agents";
+              window.location.href = "/Lucie-Galland/teachings/embodied%20virtual%20agents.html";
             },},{
         id: 'social-cv',
         title: 'CV',
