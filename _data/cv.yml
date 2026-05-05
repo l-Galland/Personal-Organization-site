@@ -27,7 +27,7 @@ cv:
         score: ""
         courses: "DREAM - A Dialogue Manager for Dual Level Adaptation to Context and User's Profile."
         highlights:
-        - Supervised by Catherine Pelachaud and Florian Pecune
+          - Supervised by Catherine Pelachaud and Florian Pecune
           - Published 6 conference papers and 3 journal papers in venues such as Frontiers in AI, IEEE Face and Gesture, and ACM Intelligent Virtual Agents.
 
       - institution: École Normale Supérieure - Paris
@@ -38,7 +38,7 @@ cv:
         end_date: 2022
         highlights:
           - Minor in Cognitive Sciences
-          - MAster 2 : Mathématiques Vision and Apprentissage at ENS Paris Saclay (Master specialized in research in IA)
+          - Master 2  Mathématiques Vision and Apprentissage at ENS Paris Saclay (Master specialized in research in IA)
 
     Experience:
       - company: LIS - AMU
