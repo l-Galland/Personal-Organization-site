@@ -55,7 +55,7 @@ cv:
         location: Paris - France
         start_date: 2022
         end_date: 2023
-        Summary: L3 level - Introduction to object-oriented programming. 
+        summary: L3 level - Introduction to object-oriented programming. 
     - company: Institut Polytechnique and Sorbonne University
         position: TP - Embodied virtual agents
         location: Paris - France
