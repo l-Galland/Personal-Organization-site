@@ -435,11 +435,11 @@ ninja.data = [{
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/Lucie-Galland/teachings/data-science-fundamentals.html";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction To Machine Learning',
+            },},{id: "teachings-embodied-virtual-agents",
+          title: 'Embodied virtual agents',
           description: "",
           section: "Teachings",handler: () => {
-              window.location.href = "/Lucie-Galland/teachings/introduction-to-machine-learning.html";
+              window.location.href = "/Lucie-Galland/teachings/embodied%20virtual%20agents";
             },},{
         id: 'social-cv',
         title: 'CV',
